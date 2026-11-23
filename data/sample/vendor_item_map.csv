@@ -1,0 +1,13 @@
+vendor,vendor_item_code,sku,units_per_case
+pacific_foods,PF-10255,1001,1
+pacific_foods,PF-20410,1002,12
+pacific_foods,PF-30122,1006,24
+pacific_foods,PF-40877,1007,12
+pacific_foods,PF-50110,1008,6
+pacific_foods,PF-20588,1009,12
+pacific_foods,PF-40915,1011,10
+pacific_foods,PF-30340,1012,1
+valley_produce_meat,VP-PBS,1003,1
+valley_produce_meat,VP-BOK,1004,1
+valley_produce_meat,VP-NAPA,1005,1
+valley_produce_meat,VP-TBAS,1010,20

@@ -1,0 +1,13 @@
+sku,name,category,unit,perishable,lead_time_days,unit_cost
+1001,Jasmine Rice 25 lb,dry,each,False,7,21.50
+1002,Light Soy Sauce 500 ml,dry,each,False,7,2.10
+1003,Pork Belly (skin-on),meat,lb,True,2,3.40
+1004,Shanghai Bok Choy,produce,lb,True,2,1.05
+1005,Napa Cabbage,produce,lb,True,2,0.65
+1006,Firm Tofu 14 oz,refrigerated,each,True,3,1.15
+1007,Pork & Chive Dumplings 50 ct,frozen,each,False,7,6.80
+1008,Spicy Ramen 5-pack,dry,each,False,7,3.90
+1009,Fish Sauce 24 oz,dry,each,False,7,2.75
+1010,Thai Basil (bunch),produce,each,True,2,0.45
+1011,Shrimp 16/20 2 lb (frozen),frozen,each,False,7,11.20
+1012,Napa Kimchi 32 oz,refrigerated,each,True,7,5.60

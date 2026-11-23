@@ -1,0 +1,25 @@
+date,item_id,item_name,qty,net_sales
+2026-11-17,1001,Jasmine Rice 25 lb,9,296.91
+2026-11-20,1001,Jasmine Rice 25 lb,13,428.87
+2026-11-17,1002,Light Soy Sauce 500 ml,12,41.88
+2026-11-20,1002,Light Soy Sauce 500 ml,13,45.37
+2026-11-17,1003,Pork Belly (skin-on),44.2,264.76
+2026-11-20,1003,Pork Belly (skin-on),52.2,312.68
+2026-11-17,1004,Shanghai Bok Choy,31.5,62.69
+2026-11-20,1004,Shanghai Bok Choy,38.5,76.62
+2026-11-17,1005,Napa Cabbage,48,61.92
+2026-11-20,1005,Napa Cabbage,62,79.98
+2026-11-17,1006,Firm Tofu 14 oz,55,109.45
+2026-11-20,1006,Firm Tofu 14 oz,63,125.37
+2026-11-17,1007,Pork & Chive Dumplings 50 ct,7,76.93
+2026-11-20,1007,Pork & Chive Dumplings 50 ct,8,87.92
+2026-11-17,1008,Spicy Ramen 5-pack,19,113.81
+2026-11-20,1008,Spicy Ramen 5-pack,22,131.78
+2026-11-17,1009,Fish Sauce 24 oz,4,15.96
+2026-11-20,1009,Fish Sauce 24 oz,5,19.95
+2026-11-17,1010,Thai Basil (bunch),24,23.76
+2026-11-20,1010,Thai Basil (bunch),28,27.72
+2026-11-17,1011,Shrimp 16/20 2 lb (frozen),6,95.94
+2026-11-20,1011,Shrimp 16/20 2 lb (frozen),8,127.92
+2026-11-17,1012,Napa Kimchi 32 oz,6,53.94
+2026-11-20,1012,Napa Kimchi 32 oz,7,62.93
